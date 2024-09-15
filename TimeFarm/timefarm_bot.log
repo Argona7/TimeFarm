@@ -1,0 +1,271 @@
+15:14:52.60 | SUCCESS | Добавлена сессия +79613261439 @Argona4 PROXY : NONE
+15:22:20.49 | SUCCESS | Добавлена сессия +79952911439 @Rimuru169 PROXY : NONE
+15:23:36.51 | SUCCESS | Добавлена сессия +79934531439 @Ranker938 PROXY : NONE
+15:23:55.07 | INFO | Найдено сессий: 3!
+15:23:55.07 | INFO | Проверяю сессии на валидность!
+15:23:57.13 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:47:30.79 | INFO | Найдено сессий: 3!
+17:47:30.79 | INFO | Проверяю сессии на валидность!
+17:47:32.94 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:47:41.12 | ERROR | login | Thread 2 | rimuru | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:47:41.40 | ERROR | login | Thread 0 | argona | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:47:44.34 | ERROR | login | Thread 1 | ranker | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:50:57.51 | INFO | Найдено сессий: 3!
+17:50:57.51 | INFO | Проверяю сессии на валидность!
+17:50:59.53 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:51:05.62 | ERROR | login | Thread 1 | ranker | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:51:06.80 | ERROR | login | Thread 2 | rimuru | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:51:07.60 | ERROR | login | Thread 0 | argona | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:53:05.13 | INFO | Найдено сессий: 3!
+17:53:05.13 | INFO | Проверяю сессии на валидность!
+17:53:07.33 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:53:13.51 | ERROR | login | Thread 0 | argona | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:53:15.54 | ERROR | login | Thread 2 | rimuru | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:53:23.64 | ERROR | login | Thread 1 | ranker | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:55:39.98 | INFO | Найдено сессий: 3!
+17:55:39.98 | INFO | Проверяю сессии на валидность!
+17:55:42.06 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:55:49.35 | ERROR | login | Thread 2 | rimuru | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:55:56.20 | ERROR | login | Thread 1 | ranker | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:55:58.40 | ERROR | login | Thread 0 | argona | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+17:57:16.62 | INFO | Найдено сессий: 3!
+17:57:16.62 | INFO | Проверяю сессии на валидность!
+17:57:18.64 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+17:57:29.77 | ERROR | login | Thread 0 | argona | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+18:07:18.00 | INFO | Найдено сессий: 3!
+18:07:18.00 | INFO | Проверяю сессии на валидность!
+18:07:20.26 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:07:27.49 | ERROR | login | Thread 2 | rimuru | 0, message='', url='https://tg-bot-tap.laborx.io/api/v1/auth/validate-init/v2'
+18:09:54.23 | INFO | Найдено сессий: 3!
+18:09:54.23 | INFO | Проверяю сессии на валидность!
+18:09:56.33 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:10:02.87 | ERROR | login | Thread 0 | argona | 'dict' object has no attribute 'status'
+18:10:03.62 | ERROR | login | Thread 1 | ranker | 'dict' object has no attribute 'status'
+18:10:10.01 | ERROR | login | Thread 2 | rimuru | 'dict' object has no attribute 'status'
+18:12:26.53 | INFO | Найдено сессий: 3!
+18:12:26.53 | INFO | Проверяю сессии на валидность!
+18:12:28.62 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:12:34.78 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+18:12:37.06 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+18:12:37.26 | ERROR | main | Thread 0 | argona | name 'headers' is not defined
+18:12:39.57 | ERROR | main | Thread 1 | ranker | name 'headers' is not defined
+18:14:57.16 | INFO | Найдено сессий: 3!
+18:14:57.16 | INFO | Проверяю сессии на валидность!
+18:14:59.44 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:15:07.77 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+18:15:13.65 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+18:15:14.46 | ERROR | main | Thread 1 | ranker | 'dict' object has no attribute 'status'
+18:15:15.85 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+18:15:20.14 | ERROR | main | Thread 0 | argona | 'dict' object has no attribute 'status'
+18:15:22.82 | ERROR | main | Thread 2 | rimuru | 'dict' object has no attribute 'status'
+18:17:23.54 | INFO | Найдено сессий: 3!
+18:17:23.54 | INFO | Проверяю сессии на валидность!
+18:17:25.57 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:17:37.81 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+18:17:37.87 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+18:17:39.55 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+18:17:49.05 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+18:17:49.29 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+18:17:50.37 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+18:18:00.91 | WARNING | main | Thread 2 | rimuru | Failed to get staking reward!
+18:18:01.14 | WARNING | main | Thread 1 | ranker | Failed to get staking reward!
+18:18:08.12 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+18:18:11.50 | WARNING | main | Thread 2 | rimuru | Failed to get staking reward!
+18:18:11.83 | WARNING | main | Thread 1 | ranker | Failed to get staking reward!
+18:18:15.19 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+18:18:15.45 | ERROR | main | Thread 0 | argona | 'submission'
+18:18:20.97 | WARNING | main | Thread 2 | rimuru | Failed to sent submission task
+18:18:21.32 | WARNING | main | Thread 1 | ranker | Failed to sent submission task
+18:18:21.67 | ERROR | main | Thread 1 | ranker | 'submission'
+18:43:48.41 | INFO | Найдено сессий: 3!
+18:43:48.41 | INFO | Проверяю сессии на валидность!
+18:43:50.58 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+18:43:59.78 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+18:44:02.84 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+18:44:02.92 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+18:44:07.89 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+18:44:11.12 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+18:44:11.29 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+18:44:26.20 | WARNING | main | Thread 1 | ranker | Failed to get staking reward!
+18:44:28.76 | WARNING | main | Thread 2 | rimuru | Failed to get staking reward!
+19:13:10.02 | INFO | Найдено сессий: 3!
+19:13:10.02 | INFO | Проверяю сессии на валидность!
+19:13:12.19 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+19:13:24.44 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+19:13:25.38 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+19:13:26.51 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+19:13:33.30 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+19:13:33.57 | INFO | main | Thread 1 | ranker | Farming didn't start!
+19:13:34.74 | INFO | main | Thread 0 | argona | Farming didn't start!
+19:13:40.51 | WARNING | main | Thread 1 | ranker | Failed to start the farming!
+19:13:41.62 | WARNING | main | Thread 0 | argona | Failed to start the farming!
+19:33:56.07 | INFO | Найдено сессий: 3!
+19:33:56.07 | INFO | Проверяю сессии на валидность!
+19:33:58.26 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+19:34:05.76 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+19:34:08.59 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+19:34:10.46 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+19:34:14.22 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+19:34:16.90 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+19:34:18.85 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+19:34:33.74 | WARNING | main | Thread 1 | ranker | Failed to get staking reward!
+20:03:16.59 | INFO | Найдено сессий: 3!
+20:03:16.59 | INFO | Проверяю сессии на валидность!
+20:03:18.67 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+20:03:29.29 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+20:03:29.83 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+20:03:34.05 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+20:03:37.82 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+20:03:38.03 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+20:03:42.16 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+20:03:56.71 | WARNING | main | Thread 2 | rimuru | Failed to get staking reward!
+20:05:58.33 | INFO | Найдено сессий: 3!
+20:05:58.33 | INFO | Проверяю сессии на валидность!
+20:06:00.50 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+20:06:06.67 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+20:06:06.67 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+20:06:15.01 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+20:06:15.06 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+20:06:16.62 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+20:06:24.57 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+20:06:34.91 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+20:06:36.19 | WARNING | main | Thread 1 | ranker | Failed to sent submission task
+20:06:36.49 | ERROR | main | Thread 1 | ranker | 'submission'
+20:06:42.04 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+20:06:42.38 | ERROR | main | Thread 0 | argona | 'submission'
+20:14:59.19 | INFO | Найдено сессий: 3!
+20:14:59.19 | INFO | Проверяю сессии на валидность!
+20:15:01.29 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+20:15:07.44 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+20:15:09.59 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+20:15:11.71 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+20:15:15.53 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+20:15:17.69 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+20:15:19.56 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+20:15:35.43 | WARNING | main | Thread 1 | ranker | Failed to sent submission task
+20:15:35.67 | ERROR | main | Thread 1 | ranker | 'submission'
+20:15:40.53 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+20:15:41.51 | WARNING | main | Thread 2 | rimuru | Failed to sent submission task
+20:15:47.69 | WARNING | main | Thread 0 | argona | Failed to sent submission task
+20:15:47.97 | ERROR | main | Thread 0 | argona | 'submission'
+20:15:48.59 | WARNING | main | Thread 2 | rimuru | Failed to sent submission task
+20:15:48.85 | ERROR | main | Thread 2 | rimuru | 'submission'
+20:23:19.60 | INFO | Найдено сессий: 3!
+20:23:19.61 | INFO | Проверяю сессии на валидность!
+20:23:21.69 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+20:23:29.97 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+20:23:34.30 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+20:23:34.93 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+20:23:38.04 | INFO | main | Thread 2 | rimuru | Farming isn't over yet!
+20:23:42.63 | INFO | main | Thread 1 | ranker | Farming isn't over yet!
+20:23:43.10 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+20:23:54.45 | SUCCESS | main | Thread 2 | rimuru | Submission task sent: Play Simple Tap
+20:23:56.52 | SUCCESS | main | Thread 0 | argona | Submission task sent: Play Simple Tap
+20:23:58.14 | SUCCESS | main | Thread 2 | rimuru | Submission task sent: Play Bums
+20:24:00.15 | SUCCESS | main | Thread 0 | argona | Submission task sent: Play Bums
+20:24:00.25 | SUCCESS | main | Thread 1 | ranker | Submission task sent: Share in Telegram Stories
+20:24:02.13 | SUCCESS | main | Thread 2 | rimuru | The tasks points have been  claimed: Play to $BOINK
+20:24:03.93 | SUCCESS | main | Thread 1 | ranker | Submission task sent: Play Simple Tap
+20:24:04.12 | SUCCESS | main | Thread 0 | argona | The tasks points have been  claimed: Play to $BOINK
+20:24:07.12 | SUCCESS | main | Thread 0 | argona | The tasks points have been  claimed: Watch the video on our founder's channel
+20:24:07.58 | SUCCESS | main | Thread 1 | ranker | Submission task sent: Play Bums
+20:24:11.83 | SUCCESS | main | Thread 1 | ranker | The tasks points have been  claimed: Play to $BOINK
+20:24:15.16 | SUCCESS | main | Thread 1 | ranker | The tasks points have been  claimed: Watch the video on our founder's channel
+09:26:43.88 | INFO | Найдено сессий: 3!
+09:26:43.88 | INFO | Проверяю сессии на валидность!
+09:26:46.04 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+09:26:52.43 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+09:26:53.17 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+09:26:56.41 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+09:26:59.62 | ERROR | main | Thread 0 | argona | 'dict' object has no attribute 'json'
+09:27:00.00 | ERROR | main | Thread 1 | ranker | 'dict' object has no attribute 'json'
+09:27:03.43 | ERROR | main | Thread 2 | rimuru | 'dict' object has no attribute 'json'
+09:30:31.41 | INFO | Найдено сессий: 3!
+09:30:31.41 | INFO | Проверяю сессии на валидность!
+09:30:33.48 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+09:30:43.56 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+09:30:47.85 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+09:30:48.96 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+09:30:53.23 | ERROR | main | Thread 0 | argona | 'NoneType' object has no attribute 'get'
+09:30:57.65 | ERROR | main | Thread 1 | ranker | 'NoneType' object has no attribute 'get'
+09:30:58.35 | ERROR | main | Thread 2 | rimuru | 'NoneType' object has no attribute 'get'
+09:39:15.11 | INFO | Найдено сессий: 3!
+09:39:15.11 | INFO | Проверяю сессии на валидность!
+09:39:17.14 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+09:39:23.22 | INFO | main | Thread 1 | ranker | Start! | PROXY : None
+09:39:24.39 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+09:39:25.40 | INFO | main | Thread 2 | rimuru | Start! | PROXY : None
+09:39:31.89 | INFO | main | Thread 1 | ranker | Farming didn't start!
+09:39:32.72 | INFO | main | Thread 0 | argona | Farming didn't start!
+09:39:34.11 | INFO | main | Thread 2 | rimuru | Farming didn't start!
+09:39:38.94 | WARNING | main | Thread 1 | ranker | Failed to start the farming!
+09:39:39.68 | WARNING | main | Thread 0 | argona | Failed to start the farming!
+09:39:41.21 | WARNING | main | Thread 2 | rimuru | Failed to start the farming!
+09:39:55.17 | SUCCESS | main | Thread 0 | argona | The tasks points have been  claimed: Play Bums
+09:39:59.04 | SUCCESS | main | Thread 1 | ranker | Submission task sent: Play CEX.IO Power Tap
+09:40:01.19 | SUCCESS | main | Thread 0 | argona | The points for referral successfully claimed!
+09:40:01.54 | SUCCESS | main | Thread 2 | rimuru | Submission task sent: Play CEX.IO Power Tap
+09:40:05.19 | SUCCESS | main | Thread 1 | ranker | The tasks points have been  claimed: Share in Telegram Stories
+09:40:06.19 | ERROR | main | Thread 0 | argona | name 'clear_console' is not defined
+09:53:04.44 | SUCCESS | Добавлена сессия +79930811439 @Deadrees PROXY : NONE
+09:53:47.49 | INFO | Найдено сессий: 4!
+09:53:47.49 | INFO | Проверяю сессии на валидность!
+09:53:50.01 | SUCCESS | Валидных сессий: 4; Невалидных: 0
+09:53:57.33 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+09:53:57.50 | INFO | main | Thread 3 | rimuru | Start! | PROXY : None
+09:54:02.83 | INFO | main | Thread 2 | ranker | Start! | PROXY : None
+09:54:02.96 | INFO | main | Thread 1 | deadrees | Start! | PROXY : None
+09:54:06.72 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+09:54:07.51 | INFO | main | Thread 3 | rimuru | Farming isn't over yet!
+09:54:10.94 | INFO | main | Thread 1 | deadrees | Farming isn't over yet!
+09:54:11.78 | INFO | main | Thread 2 | ranker | Farming isn't over yet!
+09:54:20.89 | SUCCESS | main | Thread 0 | argona | Staking reward successfully received!
+09:54:26.58 | SUCCESS | main | Thread 1 | deadrees | Submission task sent: Share in Telegram Stories
+09:54:30.17 | SUCCESS | main | Thread 1 | deadrees | Submission task sent: Play Simple Tap
+09:54:30.65 | SUCCESS | main | Thread 3 | rimuru | The tasks points have been  claimed: Play CEX.IO Power Tap
+09:54:33.75 | SUCCESS | main | Thread 1 | deadrees | Submission task sent: Play Bums
+09:54:34.76 | SUCCESS | main | Thread 2 | ranker | The tasks points have been  claimed: Play Bums
+09:54:35.63 | SUCCESS | main | Thread 0 | argona | The points for referral successfully claimed!
+09:54:36.73 | ERROR | main | Thread 3 | rimuru | '>=' not supported between instances of 'NoneType' and 'int'
+09:54:37.27 | SUCCESS | main | Thread 1 | deadrees | Submission task sent: Play CEX.IO Power Tap
+09:54:38.65 | SUCCESS | main | Thread 2 | ranker | The tasks points have been  claimed: Play CEX.IO Power Tap
+09:54:41.53 | SUCCESS | main | Thread 1 | deadrees | The tasks points have been  claimed: Share in Telegram Stories
+09:57:19.13 | INFO | Найдено сессий: 4!
+09:57:19.13 | INFO | Проверяю сессии на валидность!
+09:57:21.62 | SUCCESS | Валидных сессий: 4; Невалидных: 0
+09:57:29.70 | INFO | main | Thread 1 | deadrees | Start! | PROXY : None
+09:57:30.95 | INFO | main | Thread 2 | ranker | Start! | PROXY : None
+09:57:35.99 | INFO | main | Thread 3 | rimuru | Start! | PROXY : None
+09:57:36.84 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+09:57:37.83 | INFO | main | Thread 1 | deadrees | Farming isn't over yet!
+09:57:42.70 | INFO | main | Thread 2 | ranker | Farming isn't over yet!
+09:57:45.25 | INFO | main | Thread 3 | rimuru | Farming isn't over yet!
+09:57:45.52 | INFO | main | Thread 0 | argona | Farming isn't over yet!
+09:58:00.57 | SUCCESS | main | Thread 1 | deadrees | The tasks points have been  claimed: Play Bums
+09:58:04.33 | SUCCESS | main | Thread 1 | deadrees | The tasks points have been  claimed: Play CEX.IO Power Tap
+09:58:08.26 | SUCCESS | main | Thread 1 | deadrees | The tasks points have been  claimed: Play to $BOINK
+09:58:11.00 | SUCCESS | main | Thread 0 | argona | The points for referral successfully claimed!
+17:46:17.82 | INFO | Найдено сессий: 4!
+17:46:17.82 | INFO | Проверяю сессии на валидность!
+17:46:20.40 | SUCCESS | Валидных сессий: 4; Невалидных: 0
+17:46:30.67 | INFO | main | Thread 1 | deadrees | Start! | PROXY : None
+17:46:30.83 | INFO | main | Thread 0 | argona | Start! | PROXY : None
+17:46:32.20 | INFO | main | Thread 2 | ranker | Start! | PROXY : None
+17:46:35.52 | INFO | main | Thread 3 | rimuru | Start! | PROXY : None
+17:46:39.68 | SUCCESS | main | Thread 0 | argona | Farming successfully completed! 
+17:46:40.12 | SUCCESS | main | Thread 1 | deadrees | Farming successfully completed! 
+17:46:41.23 | SUCCESS | main | Thread 2 | ranker | Farming successfully completed! 
+17:46:42.07 | SUCCESS | main | Thread 0 | argona | Farming successfully started! 
+17:46:42.61 | SUCCESS | main | Thread 1 | deadrees | Farming successfully started! 
+17:46:43.62 | SUCCESS | main | Thread 2 | ranker | Farming successfully started! 
+17:46:44.90 | SUCCESS | main | Thread 3 | rimuru | Farming successfully completed! 
+17:46:47.32 | SUCCESS | main | Thread 3 | rimuru | Farming successfully started! 
+17:47:01.54 | SUCCESS | main | Thread 2 | ranker | Submission task sent: Посмотри видео на канале нашего основателя
+17:47:01.79 | SUCCESS | main | Thread 0 | argona | Submission task sent: Watch the video on our founder's channel
+17:47:03.26 | SUCCESS | main | Thread 1 | deadrees | Submission task sent: Watch the video on our founder's channel
+17:47:05.96 | SUCCESS | main | Thread 2 | ranker | The tasks points have been  claimed: Watch the video on our founder's channel
+17:47:06.05 | SUCCESS | main | Thread 0 | argona | The tasks points have been  claimed: Посмотри видео на канале нашего основателя
+17:47:07.71 | SUCCESS | main | Thread 1 | deadrees | The tasks points have been  claimed: Watch the video on our founder's channel
+17:47:08.39 | SUCCESS | main | Thread 3 | rimuru | Submission task sent: Watch the video on our founder's channel
+17:47:12.11 | SUCCESS | main | Thread 0 | argona | The points for referral successfully claimed!
+17:47:12.99 | SUCCESS | main | Thread 3 | rimuru | The tasks points have been  claimed: Watch the video on our founder's channel
