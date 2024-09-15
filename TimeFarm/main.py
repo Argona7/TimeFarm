@@ -14,8 +14,8 @@ import time
 async def main():
     windll.kernel32.SetConsoleTitleW("Major Hack by Argona")
 
-    # print_name()
-    # clear_console()
+    print_name()
+    clear_console()
     action = int(input('Выберите действие:\n1. Начать сбор монет\n2. Создать сессию\n>'))
 
     if not os.path.exists('../sessions'):
