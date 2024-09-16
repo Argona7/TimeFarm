@@ -1,6 +1,6 @@
-from TimeFarm.utils.core import logger
+from utils.core import logger
 from pyrogram import Client
-from TimeFarm.data import config
+from data import config
 import os
 
 
