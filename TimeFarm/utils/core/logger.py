@@ -1,7 +1,7 @@
 import sys
 import requests
 from loguru import logger
-from TimeFarm.data import config
+from data import config
 
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{config.BOT_TOKEN}/sendMessage"
 def send_log_to_telegram(message):
