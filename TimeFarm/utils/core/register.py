@@ -1,6 +1,6 @@
 from loguru import logger
-from TimeFarm.data import config
-from TimeFarm.data.config import USE_PROXY
+from data import config
+from data.config import USE_PROXY
 
 import pyrogram
 
