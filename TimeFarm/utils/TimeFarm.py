@@ -2,8 +2,8 @@ from pyrogram.raw.functions.messages import RequestWebView
 from urllib.parse import unquote
 from fake_useragent import UserAgent
 from pyrogram import Client
-from TimeFarm.data import config
-from TimeFarm.utils.core import logger
+from data import config
+from utils.core import logger
 from datetime import datetime
 
 import aiohttp
