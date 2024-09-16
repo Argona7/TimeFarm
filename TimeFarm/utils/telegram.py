@@ -1,4 +1,4 @@
-from utils.core import logger
+from ..utils.core import logger
 from pyrogram import Client
 from data import config
 import os
